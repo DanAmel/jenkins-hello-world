@@ -1,0 +1,1 @@
+print("Hello world, from Gatineau,s Jenkins pipeline!!!")
